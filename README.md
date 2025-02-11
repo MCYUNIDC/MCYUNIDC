@@ -14,6 +14,14 @@
 - **数据库**: MySQL
 - **工具**: Git, Docker, VS Code
 
+## 📚 AI 知识库
+以下是一些我推荐的 AI 相关知识库和资源：
+- [TensorFlow](https://www.tensorflow.org) - 一个开源机器学习框架。
+- [PyTorch](https://pytorch.org) - 一个灵活的深度学习框架。
+- [Kaggle](https://www.kaggle.com) - 数据科学和机器学习的竞赛平台。
+- [Fast.ai](https://www.fast.ai) - 提供深度学习课程和资源。
+- [OpenAI](https://openai.com) - 人工智能研究和开发的前沿。
+
 ## 📈 我的 GitHub 统计
 ![GitHub 统计](https://github-readme-stats.vercel.app/api?username=MCYUNIDC&show_icons=true&theme=radical)
 
