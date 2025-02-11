@@ -1,5 +1,10 @@
 # 👋 你好，欢迎来到我的 GitHub 主页！
 
+## 📈 我的 GitHub 统计
+![GitHub 统计](https://github-readme-stats.vercel.app/api?username=MCYUNIDC&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCYUNIDC&layout=compact&theme=radical)
+
 ## 🌟 关于我
 - 🔭 我正在开发：一些有趣的项目，探索新技术
 - 🌱 我正在学习：机器学习、区块链和云计算
@@ -19,9 +24,6 @@
 - [MC云相关知识库](https://github.com/MCYUNIDC/mccloud/) - 关于MC云和联系客服。
 - [云产品相关知识库](https://github.com/MCYUNIDC/cart/) - 解决云产品问题。
 - [AI相关知识库](https://github.com/MCYUNIDC/ai/) - AI人格知识库。
-
-## 📈 我的 GitHub 统计
-![GitHub 统计](https://github-readme-stats.vercel.app/api?username=MCYUNIDC&show_icons=true&theme=radical)
 
 ## 📂 项目展示
 - [项目1](https://github.com/你的用户名/项目1) - 项目的简要描述
